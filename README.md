@@ -1,7 +1,9 @@
 # AI-Product-Specialist-Chatbot-for-Ecommerce-Websites
+
+## Project Overview ##
 This project is AI product Specialist chatbot for users to ask questions about different products and get details about products.
 
-Use Case:
+## Use Case: ##
 E-commerce websites to understand products
 Customer support systems for product inquiries
 Online shopping assistants
@@ -10,11 +12,16 @@ suggesting product based on customer need.
 
 ![Output](https://github.com/kavikumaran555/AI-Product-Specialist-Chatbot-for-Ecommerce-Websites/raw/main/Ai%20chat%20product%20specialist%20Output%20image.JPG)
 
-Libraies Used: sentence-transformers, scikit-learn, numpy, pandas, ipywidgets, IPython
-Model used: all-MiniLM-L6-v2 (Sentence Transformer)
-technique used: sentence embeddings, semantic search, cosine similarity, keyword intent detection, threshold-based retrieval
+## Libraies Used: ## 
+sentence-transformers, scikit-learn, numpy, pandas, ipywidgets, IPython
 
-Algorithm:
+## Model used: ##
+all-MiniLM-L6-v2 (Sentence Transformer)
+
+## technique used: ##
+sentence embeddings, semantic search, cosine similarity, keyword intent detection, threshold-based retrieval
+
+## Algorithm: ##
 1. Import required libraries.
 2. Load the sentence transformer model.
 3. Create product dataset (product + description).
