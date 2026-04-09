@@ -8,7 +8,7 @@ Online shopping assistants
 Retail automation systems
 suggesting product based on customer need.
 
-https://github.com/kavikumaran555/AI-Product-Specialist-Chatbot-for-Ecommerce-Websites/raw/main/Ai%20chat%20product%20specialist%20Output%20image.JPG
+![Output](https://github.com/kavikumaran555/AI-Product-Specialist-Chatbot-for-Ecommerce-Websites/raw/main/Ai%20chat%20product%20specialist%20Output%20image.JPG)
 
 Libraies Used: sentence-transformers, scikit-learn, numpy, pandas, ipywidgets, IPython
 Model used: all-MiniLM-L6-v2 (Sentence Transformer)
